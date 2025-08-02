@@ -6,17 +6,28 @@ Modern ve şık görünümlü **Progress Bar** (ilerleme çubuğu) görselleri o
 
 ## Görseller
 
-<img width="742" height="237" alt="barpng" src="https://github.com/user-attachments/assets/5490e6aa-be9c-47de-9720-aad466315c79" />
+<details>
+  <summary>📸 Tıkla ➡ Botumun Görselleri ⬅</summary>
 
-<img width="738" height="234" alt="bar2png" src="https://github.com/user-attachments/assets/c9423330-f485-46e5-adf3-a04640971c41" />
+  <br>
 
-<img width="642" height="358" alt="görevpng" src="https://github.com/user-attachments/assets/8359e955-6461-490f-b98b-bcfaa1bdad1e" />
+  | Bar Komutları 1 | Bar Komutları 2 |
+  |----------|----------|
+  | <img src="https://github.com/user-attachments/assets/5490e6aa-be9c-47de-9720-aad466315c79" width="360" /> | <img src="https://github.com/user-attachments/assets/c9423330-f485-46e5-adf3-a04640971c41" width="360" /> |
 
-<img width="529" height="183" alt="savebars" src="https://github.com/user-attachments/assets/7b5bfc29-85a0-4f15-a285-6688de4d87fb" />
+  <br>
 
-<img width="1114" height="578" alt="savebarsTerminal" src="https://github.com/user-attachments/assets/a92d3f5b-c57d-425d-ae0f-6b9d1f546b24" />
+  | Görev Komutları | Görsel Kaydetme |
+  |----------|----------|
+  | <img src="https://github.com/user-attachments/assets/8359e955-6461-490f-b98b-bcfaa1bdad1e" width="360" /> | <img src="https://github.com/user-attachments/assets/7b5bfc29-85a0-4f15-a285-6688de4d87fb" width="360" /> |
 
+  <br>
 
+  | Terminal Ekranı |
+  |-----------------|
+  | <img src="https://github.com/user-attachments/assets/a92d3f5b-c57d-425d-ae0f-6b9d1f546b24" width="700" /> |
+
+</details>
 
 ---
 
