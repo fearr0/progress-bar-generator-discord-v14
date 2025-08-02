@@ -1,4 +1,4 @@
-# Discord Progress Bar Bot ( Beş Yıldız'a paylaşılacaktır.⭐ )
+# Discord Progress Bar Bot ( Beş Star'a paylaşılacaktır.⭐ ➡ )
 
 Modern ve şık görünümlü **Progress Bar** (ilerleme çubuğu) görselleri oluşturan ve bunları Discord bot komutlarıyla kullanan bir Node.js projesidir. Kullanıcıların görev, yetki veya aktivite ilerlemelerini görsel olarak göstermek için tasarlanmıştır.
 
